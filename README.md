@@ -20,6 +20,17 @@
 3. Implementation Verbs or Methods (Point No. 1)
 4. Handling inputs validations using `joi`
 
-## Refrence Video URL :-
+## To Run The Application :-
 
-https://www.youtube.com/watch?v=pKd0Rpw7O48
+1. Clone the source code from `https://github.com/manikantauidev/express-demo`
+2. Run command `npm install` to install dependencies
+3. Run command `node index`, you will see a message on your terminal/command-line that server is running on a port
+4. Open your browser enter the URL `http://localhost:${port}`
+5. You will get some response from the server
+6. Thats it. Thanks for cloning && enjoy the "EXPRESS CODING".
+
+## Refrence Video URL :-
+    https://www.youtube.com/watch?v=pKd0Rpw7O48
+
+### Credits to :- 
+    MOSH
